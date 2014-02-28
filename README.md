@@ -1,4 +1,7 @@
 Android
 =======
 
-Cursos y Aplicaciones Android con Java  ======= Luis Antonio Jiménez Velasco
+Cursos y Aplicaciones Android con Java  
+
+======= 
+Luis Antonio Jiménez Velasco
