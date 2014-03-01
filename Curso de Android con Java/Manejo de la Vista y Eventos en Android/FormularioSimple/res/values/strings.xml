@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FormularioSimple</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_main">Formulario Simple</string>
+    <string name="title_form_reg_users">Registro de Usuarios</string>
+    <string name="nombre">Nombre(s)</string>
+    <string name="apellidos">Apellido(s)</string>
+    <string name="tel">Telefono</string>
+    <string name="email">eMail</string>
+    <string name="enviar">Enviar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="resultado">Datos Proporcionados</string>
+
+</resources>
