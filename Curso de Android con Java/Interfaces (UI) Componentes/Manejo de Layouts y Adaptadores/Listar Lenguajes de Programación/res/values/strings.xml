@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListaLenguajesProgramacion</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_main">Lista de Lenguajes de Programación</string>
+    <string name="agregarLenguaje">Agregar Lenguaje</string>
+    <string name="agregarDescLenguaje">Decripción</string>
+    
+
+</resources>
