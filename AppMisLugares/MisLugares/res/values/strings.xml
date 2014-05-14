@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Mis Lugares</string>
+    <string name="acerca_de">Acerca de</string>
     <string name="action_settings">Configuración</string>
+    <string name="app_name">Mis Lugares</string>
+    <string name="e_t_nombre_lugar">Nombre del lugar</string>
+    <string name="e_t_direccion">Ubicación del lugar</string>
     <string name="mostrar_lugares">Mostrar Lugares</string>
     <string name="preferencias">Preferencias</string>
-    <string name="acerca_de">Acerca de</string>
+    <string name="t_v_tipo_lugar">Tipo:</string>
+    <string name="t_v_direccion">Dirección:</string>
+    <string name="t_v_nombre_lugar">Nombre:</string>
+    <string name="t_v_telefono">Teléfono :</string>
     <string name="salir">Salir</string>
+    <string name="e_t_telefono">Teléfono de contacto</string>
+    <string name="t_v_url">URL:</string>
+    <string name="e_t_url">Página web</string>
+    <string name="t_v_comentario">Comentario:</string>
+    <string name="e_t_comentario">Introduce tus notas</string>
 
 </resources>
