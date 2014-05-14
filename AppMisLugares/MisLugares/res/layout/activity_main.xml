@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="30dp" >
+
+    <TextView
+        android:id="@+id/textTitulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="20dp"
+        android:text="@string/app_name"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/buttonMostrarLugares"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/mostrar_lugares" />
+
+    <Button
+        android:id="@+id/buttonPreferencias"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/preferencias" />
+
+    <Button
+        android:id="@+id/buttonAcercaDe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/acerca_de" />
+
+    <Button
+        android:id="@+id/buttonSalir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/salir" />
+
+</LinearLayout>
